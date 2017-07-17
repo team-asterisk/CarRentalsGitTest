@@ -293,6 +293,7 @@ select {
 	background: url(../images/select-arrow.png) no-repeat center right;
 	text-indent: 0.01px;
 	text-overflow: '';
+	min-width: 85px;
 	min-height: 36px;
 	padding-left: 0.5rem;
 }
